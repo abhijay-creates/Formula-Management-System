@@ -1,2 +1,14 @@
-# Formula-Management-System
-A formula sheet for 11th and 12th graders preparing for JEE entrance exam - Its a convenient demo of a tool made for ease of accessing formulae for subjects like physics and chemistry. 
+# Formula Management System
+
+A formula sheet application for 11th and 12th graders preparing for the JEE entrance exam. This is a convenient demo tool designed for easy access to formulas in physics and chemistry.
+
+## Tech Stack
+
+- **Frontend**: Python
+- **Backend**: MySQL (data storage)
+- **Libraries**: Pandas, NumPy
+- **Database Connection**: MySQL Connector for Python
+
+## Features
+
+Provides quick access to essential formulas for JEE preparation subjects including physics and chemistry.
